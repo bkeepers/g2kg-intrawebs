@@ -1,0 +1,16 @@
+---
+layout: default
+title: Get To Know GitHub
+---
+
+<div id="home">
+  <h1>Participants</h1>
+  <ul class="participants">
+    {% for participant in site.posts %}
+      <li>
+        <img class="mugshot" src="{{site.url}}/mugshots/{{participant.username}}.jpg">
+        <a href="{{ participant.url }}">{{ participant.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
