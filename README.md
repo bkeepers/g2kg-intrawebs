@@ -4,3 +4,4 @@ This simple website uses [jekyll](http://jekyllrb.com/). To run it locally, you 
 
     $ gem install jekyll
     $ script/server
+bar
