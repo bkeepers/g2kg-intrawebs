@@ -1,0 +1,20 @@
+---
+layout: participant
+title:  Sara Thompson
+username: saravano
+company: The RND Group
+hometown: Indianapolis  IN
+tags:
+- c#
+- architect
+---
+
+<!-- Tell us a little about yourself. -->
+
+I learned 'C' from Kernigan and Ritchie...
+
+<!-- Tell us something interesting. -->
+
+System design and is nearly always a reflection of the corporate structure.
+
+
