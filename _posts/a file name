@@ -1,0 +1,34 @@
+---
+layout: participant
+title:  Bryon Greene
+username: boardermindtrick
+company: SnapOne, inc.
+hometown: Mooresville, IN
+tags:
+- c#
+- .net
+---
+
+<!-- Tell us a little about yourself. -->
+
+A software engineer that loves creating fun innovative software products that no one has created before.
+
+<!-- Tell us something interesting. -->
+
+Checkout gart.dll on codeplex for cool augmented reality open source goodness.
+
+{% highlight ruby %}
+module Kernel
+  def the(a, b)
+    Exception.new
+  end
+
+  def roof
+  end
+
+  def yo!
+  end
+end
+
+raise the roof, yo!
+{% endhighlight %}
