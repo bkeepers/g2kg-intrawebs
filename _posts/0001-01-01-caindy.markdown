@@ -1,0 +1,34 @@
+---
+layout: participant
+title:  Christopher Atkins
+username: caindy
+company: GitHub
+hometown: Holland, MI
+tags:
+- ruby
+- javascript
+---
+
+<!-- Tell us a little about yourself. -->
+
+I am a maker and breaker of things at GitHub working mostly on [Speaker Deck](http://speakerdeck.com). When my face is not dimly lit by a computer screen, you can find me with a book in my hands, playing racquetball or basketball, running with my dog, or enjoying good food and drink with my wife. I share about my endeavors at [@bkeepers](http://twitter.com/bkeepers) and opensoul.org.
+
+<!-- Tell us something interesting. -->
+
+Here's one of my [favorite code snippets](https://gist.github.com/dpetersen/322146).
+
+{% highlight ruby %}
+module Kernel
+  def the(a, b)
+    Exception.new
+  end
+
+  def roof
+  end
+
+  def yo!
+  end
+end
+
+raise the roof, yo!
+{% endhighlight %}
