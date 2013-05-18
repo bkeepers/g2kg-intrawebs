@@ -8,8 +8,8 @@ title: Get To Know GitHub
   <ul class="participants">
     {% for participant in site.posts %}
       <li>
-        <img class="mugshot" src="{{site.url}}/mugshots/{{participant.username}}.jpg">
-        <a href="{{ participant.url }}">{{ participant.title }}</a>
+        <img class="mugshot" src="{{site.baseurl}}/mugshots/{{participant.username}}.jpg">
+        <a href="{{site.baseurl}}{{ participant.url }}">{{ participant.title }}</a>
       </li>
     {% endfor %}
   </ul>

@@ -1,6 +1,5 @@
 name: Get To Know GitHub
 tagline: Indianapolis, IN – May 18, 2013
 pygments: true
-relative_permalinks: true
-baseurl: /g2kg/
+baseurl: /g2kg-intrawebs
 permalink: :title
