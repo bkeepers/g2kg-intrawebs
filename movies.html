@@ -1,0 +1,23 @@
+---
+layout: default
+title: Get To Know GitHub
+movies:
+  - name: Flight
+    starring: Denzel Washington
+  - name: Iron Man 1 & 3
+    starring: Robert Downy, Jr.
+  - name: You Don't Know Jack
+    starring: Al Pacino
+---
+
+<div id="home">
+  <h1>Movies you should really watch:</h1>
+  <ul class="movies">
+    {% for movie in page.movies %}
+      <li>
+        <h2>{{movie.name}}</h2>
+        starring {{movie.starring}}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
