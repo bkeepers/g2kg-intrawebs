@@ -1,8 +1,8 @@
 ---
 layout: participant
 title:  Jeff Zickgraf
-username: jzickgraf
-company: GitHub
+username: jeffzickgraf
+company: SnapOne, Inc.
 hometown: Columbia City, IN
 tags:
 - ruby
