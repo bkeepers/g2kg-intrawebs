@@ -2,21 +2,18 @@
 layout: participant
 title:  Michael Baydoun 
 username: IndyMichaelB
-company: Walker Information
+company: 
 hometown: Indianapolis, IN
 tags:
+- ansible
+- aws
 - linux
-- puppet
-- gitnewbie
 ---
 
 <!-- Tell us a little about yourself. -->
 
 @IndyMichaelB
 
-I'm here to learn git.  I write puppet code to describe how our linux servers should be configured.  That code should really be versioned in git.
+Former Linux admin, now DevOps engineer, using git to version ansible code, which we us to configure and run workloads in aws.
 
 <!-- Tell us something interesting. -->
-
-I'm tired today
-
